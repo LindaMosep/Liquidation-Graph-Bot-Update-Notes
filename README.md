@@ -4,7 +4,7 @@
 
 ### Bookmark system implemented.
 
-> After you select your coin or timeframe, you are gonna see `Bookmark button` under it.
+> After you select your coin or timeframe, you are gonna see `Bookmark!` button under of it.
 
 ![Bookmark Button](https://cdn.discordapp.com/attachments/469612307836698635/1108535562555637770/image.png)
 
