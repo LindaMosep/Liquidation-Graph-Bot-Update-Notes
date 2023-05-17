@@ -1,8 +1,13 @@
+## If you want to use this bot on your own server
+### Contact addresses:
+- Discord: n*1_#8621 
+* Telegram: https://t.me/n1_dev
+
 # Liquidation Graph Bot Patch Notes
 
 ## Version 1.07 is launched!
 
-### Bookmark system implemented.
+### Bookmark system:
 
 > After you select your coin or timeframe, you are gonna see `Bookmark!` button under of it.
 
