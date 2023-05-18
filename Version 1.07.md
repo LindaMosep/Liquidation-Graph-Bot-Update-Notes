@@ -39,4 +39,4 @@
   
 ![Bookmark Button 7](https://media.discordapp.net/attachments/469612307836698635/1108539385978294272/image.png)
 
-> There is a limit for bookmarks. You can only bookmark **25** liquidation level graph and **25** liquidation heatmap graph.
+> There is a limit for bookmarks. You can only bookmark **25** liquidation level graphs and **25** liquidation heatmap graphs.
