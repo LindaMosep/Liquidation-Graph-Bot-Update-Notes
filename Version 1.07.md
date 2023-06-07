@@ -1,6 +1,6 @@
 ## If you want to use this bot on your own server
 ### Contact addresses:
-- Discord: n*1_#8621 
+- Discord: lindamosep
 * Telegram: https://t.me/n1_dev
 
 # Liquidation Graph Bot Patch Notes
